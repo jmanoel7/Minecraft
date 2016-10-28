@@ -1,0 +1,6 @@
+name = Minecraft
+[Default]
+controller = GENERIC_EXECUTION
+default = True
+cwd = /home/joaomanoel/git/Minecraft
+command = /usr/bin/python2.7 main.py
